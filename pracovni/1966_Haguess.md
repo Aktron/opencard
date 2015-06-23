@@ -1580,7 +1580,7 @@ komunikací do Centrálního pracoviště SKC.
 
 1. Správce se zavazuje poskytovat služby uvedené v této Příloze s dodržením následujících charakteristik:
 
-|||| 
+|||
 |:--|:--|
 |**A) Doba provozu SKC**|Pondělí - Neděle, 00:00 ~ 24:00 hod|
 |**B) Poskytování služeb veřejnosti prostřednictvím přepážkového provozu**|Pondělí - Čtvrtek. 09:00 + 18:00 hod, kromě svátků v ČR 
@@ -1600,7 +1600,7 @@ přerušení poskytování služeb v případě zásahu třetích osob či vyš�
 
 ###Dostupnost systému
 
-|||| 
+|||
 |:--|:--|
 |**Dostupnost za měsíc**|  96,5% |
 |**Maximální doba úplných výpadků za měsíc během doby poskytování služeb veřejnosti prostřednictvím přepážkového provozu**|12h|
@@ -1609,7 +1609,7 @@ přerušení poskytování služeb v případě zásahu třetích osob či vyš�
 
 ###Servisní časy
 
-|||| 
+||| 
 |:--|:--|
 |**Služby Help desk (Blokace)**|  Pondělí- Pátek. 09:00 + 18:00 hod|
 |**Zpracování požadavků a oprava chyb**|Pondeli - Pátek. 00:00 + 17:00 hod, kromě svátků v ČR|
