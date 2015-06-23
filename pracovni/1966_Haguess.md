@@ -1638,11 +1638,11 @@ systému do zahájení řešení daného problému včetně zpětného potvrzen�
 
 ###Definice
 
-|||
+||||
 |:--|:--|:--|
 |**Alert**| |Termín *alert* označuje zprávu přicházející z monitorování systému„ která Signalizuje nerutinní sled událostí.|
 |**Doba používání**|| Termín *doba používání* označuje časový úsek, ve kterém může být systém včetně místa předání využíván na smluvené úrovni služeb a ve kterém je systém monitorován a v případe události, která má negativní vliv na provoz systému. jsou iniciovány eliminační postupy.| 
-|**Doba provozu **||Termín *doba provozu* označuje celkový časový úsek během kterého se předpokládá provoz systému|*
+|**Doba provozu**||Termín *doba provozu* označuje celkový časový úsek během kterého se předpokládá provoz systému|*
 |**Doba reakce**|| Termín *doba reakce* označuje dobu, která uběhne mezi oznámením události a zahájením řešení problému včetně předání úvodní informace osobě, která událost nahlásila|
 |**Doba uchování zálohy**|| Termín *doba uchování zálohy* specifikuje dobu, po kterou jsou zálohovaná data dostupná pro obnovení.|
 |**Dostupnost**|| **Dostupnost systému** - vyjadřuje poměr mezi dobou výpadků v daném období a celkovou plánovanou dobou používání systemu. Vztahuje se na provoz systému jako celku:|
