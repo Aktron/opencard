@@ -1629,7 +1629,7 @@ systému do zahájení řešení daného problému včetně zpětného potvrzen�
 
 
 |Popis| Reakční doba | Doba řešení|
-|:--|:--|:-|
+|:--|:--|:--|
 |Kriticka chyba |1 hodina| Nesmí překročit 6 hodin|
 |Závažná chyba| 1 hodina| Nesmí překročit 48 hodin |
 |Vedlejší chyba | 4 hodiny | 5 dnů|
@@ -1638,7 +1638,7 @@ systému do zahájení řešení daného problému včetně zpětného potvrzen�
 
 ###Definice
 
-||||
+|||
 |:--|:--|:--|
 |**Alert**| |Termín *alert* označuje zprávu přicházející z monitorování systému„ která Signalizuje nerutinní sled událostí.|
 |**Doba používání**|| Termín *doba používání* označuje časový úsek, ve kterém může být systém včetně místa předání využíván na smluvené úrovni služeb a ve kterém je systém monitorován a v případe události, která má negativní vliv na provoz systému. jsou iniciovány eliminační postupy.| 
@@ -1659,10 +1659,10 @@ systému do zahájení řešení daného problému včetně zpětného potvrzen�
 
 Další provozní charakteristiky mohou být upraveny Provozním řádem SKC.
 
-Správce je povinen vést evidenci 0 nakládání s Kartami, která bude obsahovat zejména následující údaje:
-      a) informace o Personalizaci,
-      b) informace o předání Karty Držiteli nebo zaslání Karty Držiteli prostřednictvím provozovatele poštovních služeb,
-      d) informace o zrušení Karty,
+Správce je povinen vést evidenci o nakládání s Kartami, která bude obsahovat zejména následující údaje:
+      a) informace o Personalizaci,  
+      b) informace o předání Karty Držiteli nebo zaslání Karty Držiteli prostřednictvím provozovatele poštovních služeb,  
+      d) informace o zrušení Karty,  
       e) informace o zničení Karty Správcem a důvodu zničení.
 
 
